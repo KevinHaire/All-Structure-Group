@@ -1,0 +1,53 @@
+
+
+.contactFormContainer {
+	@include breakpoint(mamaBear) {
+		width:50%;
+		float:left;	
+		padding:0 1em 0 0;
+	}
+	&:after {
+		content:'';
+		display:table;
+		clear:both;
+	}
+}
+
+.mapEmbed {
+	@include breakpoint(mamaBear) {
+		width:50%;
+		float:left;
+		padding:2.4em 0 0 1em;
+	}
+}
+
+.contactForm {
+	label {
+		display:block;
+		font-weight:bold;
+		color:$mainBlue;
+		margin-bottom:.75em;
+	}
+	input, textarea {
+		width:100%;
+		margin-bottom:1em;
+		resize:none;
+		padding:1em;
+		border:1px solid #9c9c9c;
+		border-radius:0;
+		-webkit-appearance:none;
+		&:hover, &:active, &:focus {
+			outline:0;
+		}
+	}
+	input[type="submit"] {
+		background:$mainBlue;
+		color:#ffffff; 
+		// text-transform:uppercase;
+		font-weight:bold;
+		@include breakpoint(teenBear) {
+			width:190px;
+			float:right;
+		}
+	}
+}

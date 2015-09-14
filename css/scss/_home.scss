@@ -1,0 +1,83 @@
+.welcomeSection {
+	background:$lightBrown;
+	padding:2em 0;
+	&:after {
+		content:'';
+		display:table;
+		clear:both;
+	}
+}
+
+.welcome1, .welcome2 {
+	@include breakpoint(mamaBear) {
+		// width:50%; FOR 2 SECTIONS OF TEXT
+		width:100%;
+		float:left;
+	}
+	h1 {
+		text-align:center;
+		@include breakpoint(mamaBear) {
+			text-align:left;
+		}
+	}
+	ul {
+		list-style-type:disc !important;
+		padding-left:1.5em;
+		li {
+			color:$mainText;
+		}
+	}
+}
+
+.welcome1 {
+	@include breakpoint(mamaBear) {
+		// padding-right:1em;
+	}
+}
+.welcome2 {
+	@include breakpoint(mamaBear) {
+		padding-left:1em;
+	}
+}
+
+.navIcons {
+	padding:2em 0;
+	background:#ffffff;
+	border-bottom:solid 20px $lightBrown;
+	&:after {
+		content:'';
+		display:table;
+		clear:both;
+	}
+}
+
+.iconPod {
+	width:50%;
+	float:left;
+	text-align:center;
+	a {
+		text-decoration:none;
+	}
+	img {
+		transition:all .2s ease;
+		&:hover {
+			transition:all .2s ease;
+			transform:scale(1.05);
+			cursor:pointer;
+		}
+	}
+	p {
+		display:none;
+	}
+	@include breakpoint(mamaBear) {
+		width:25%;
+		p {
+			display:block;
+			padding:0 1.3em;
+			text-align:left !important;
+		}
+	}
+	img {
+		max-width:90%;
+	}
+}

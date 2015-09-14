@@ -1,0 +1,28 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway:400,700,200);
+@import 'libs/normalize';
+@import 'bits';
+@import '_common/header';
+
+
+/***********
+GLOBAL
+***********/
+
+html {
+	background:#ffffff;
+}
+body {
+	font-family:Raleway;
+}
+
+a {
+	color:$mainBlue;
+}
+
+@import '_slider';
+@import '_home';
+@import '_team';
+@import '_testimonials';
+@import '_contact';
+
+@import '_common/_footer';

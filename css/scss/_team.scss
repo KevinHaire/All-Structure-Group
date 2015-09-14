@@ -1,0 +1,16 @@
+.teamMember {
+	background:lighten($lightGrey, 30%);
+	padding:1em;
+	text-align:center;
+	margin-bottom:1em;
+	@include breakpoint(babyBear) {
+		width:48%;
+		float:left;
+		&:nth-of-type(odd) {
+			margin-right:4%;
+		}
+	}
+	h3 {
+		margin-bottom:0;
+	}
+}
