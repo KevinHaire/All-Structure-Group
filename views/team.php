@@ -4,7 +4,7 @@
 	<p>All Structure Group LTD's team is comprised of the best people in all aspects of construction as a whole.</p>
 	<p>Construction management team:</p>
 	<ul>
-		<li>Has over 20 years of combined progressive experience in commercial, industrial, civil and institutional construction</li>
+		<li>Has over 40 years of combined progressive experience in commercial, industrial, civil and institutional construction</li>
 		<li>Self-authored, tried and tested, dedicated project management system, tailored to our primary scope of work; Pre-engineered metal buildings</li>
 	</ul>
 	<p>Field Staff:</p>
