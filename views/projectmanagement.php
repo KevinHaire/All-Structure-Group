@@ -10,7 +10,7 @@
 		<li>Dedicated trucks and trailers to move materials and equipment, ensuring on-time delivery for critical timelines</li>
 		<li>Having management staff on-call 24-7 for all projects to assist our field staff in the event they require anything, from manpower to materials to decision making</li>
 		<li>40 years combined experience in steel erection and pre-engineered building industry</li>
-		<li>Experience in Commercial and Specializing in Industrial environments</li>
+		<li>Extensive experience in Commercial and Specializing in Industrial environments</li>
 	</ul>
 	<p>At All Structure Group LTD. we also create a family orientated atmosphere. As you know, this industry demands often lengthy periods away from home. We do everything we can, to not only acknowledge this fact, but to create an environment where our team truly consider the jobsite a second home. We operate in this manner to ensure our employees are treated as though they are not just another body on the jobsite. This in turn helps employee’s work safely, productively, and with the utmost attention to detail.</p>
 </div>

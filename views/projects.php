@@ -1,10 +1,10 @@
 <div class="contain pageContainer">
 	<h1 class="pageHeader">Projects</h1>
 	<div class="youtubeVideo">
-		<h2 class="galleryHeader">USD Terminal Building</h2>
+		<h2 class="galleryHeader">USD / Gibson USD Terminal Building</h2>
 		<iframe  width="560" height="315" src="https://www.youtube.com/embed/IANAM4_zI3c" frameborder="0" allowfullscreen></iframe>
 	</div>
-	<h2 class="galleryHeader">GCS</h2>
+	<h2 class="galleryHeader">GCS/ GCS Energy Services</h2>
 	<div id="gallery-2" class="royalSlider rsDefault royalSliderGallery">
 		<a class="rsImg bugaga" data-rsw="509" data-rsh="387" data-rsbigimg="images/projects/gcs/1.jpg" href="images/projects/gcs/1.jpg"><img width="96" height="72" class="rsTmb" src="images/projects/gcs/1.jpg"></a>
 		<a class="rsImg bugaga" data-rsw="509" data-rsh="387" data-rsbigimg="images/projects/gcs/2.jpg" href="images/projects/gcs/2.jpg"><img width="96" height="72" class="rsTmb" src="images/projects/gcs/2.jpg"></a>
@@ -13,7 +13,7 @@
 		<a class="rsImg bugaga" data-rsw="509" data-rsh="387" data-rsbigimg="images/projects/gcs/5.jpg" href="images/projects/gcs/5.jpg"><img width="96" height="72" class="rsTmb" src="images/projects/gcs/5.jpg"></a>
 		<a class="rsImg bugaga" data-rsw="509" data-rsh="387" data-rsbigimg="images/projects/gcs/6.jpg" href="images/projects/gcs/6.jpg"><img width="96" height="72" class="rsTmb" src="images/projects/gcs/6.jpg"></a>
 	</div>
-	<h2 class="galleryHeader">IPL</h2>
+	<h2 class="galleryHeader">IPL/ Inter-pipeline</h2>
 	<div id="gallery-3" class="royalSlider rsDefault royalSliderGallery">
 		<a class="rsImg bugaga" data-rsw="509" data-rsh="387" data-rsbigimg="images/projects/ipl/1.jpg" href="images/projects/ipl/1.jpg"><img width="96" height="72" class="rsTmb" src="images/projects/ipl/1.jpg"></a>
 		<a class="rsImg bugaga" data-rsw="509" data-rsh="387" data-rsbigimg="images/projects/ipl/2.jpg" href="images/projects/ipl/2.jpg"><img width="96" height="72" class="rsTmb" src="images/projects/ipl/2.jpg"></a>
@@ -54,7 +54,7 @@
 		<a class="rsImg bugaga" data-rsw="509" data-rsh="387" data-rsbigimg="images/projects/ipl/37.jpg" href="images/projects/ipl/37.jpg"><img width="96" height="72" class="rsTmb" src="images/projects/ipl/37.jpg"></a>
 		<a class="rsImg bugaga" data-rsw="509" data-rsh="387" data-rsbigimg="images/projects/ipl/38.jpg" href="images/projects/ipl/38.jpg"><img width="96" height="72" class="rsTmb" src="images/projects/ipl/38.jpg"></a>
 	</div>
-	<h2 class="galleryHeader">Kleyssen</h2>
+<!-- 	<h2 class="galleryHeader">Kleyssen</h2>
 	<div id="gallery-4" class="royalSlider rsDefault royalSliderGallery">
 		<a class="rsImg bugaga" data-rsw="509" data-rsh="387" data-rsbigimg="images/projects/kleyssen/1.jpg" href="images/projects/kleyssen/1.jpg"><img width="96" height="72" class="rsTmb" src="images/projects/kleyssen/1.jpg"></a>
 		<a class="rsImg bugaga" data-rsw="509" data-rsh="387" data-rsbigimg="images/projects/kleyssen/2.jpg" href="images/projects/kleyssen/2.jpg"><img width="96" height="72" class="rsTmb" src="images/projects/kleyssen/2.jpg"></a>
@@ -91,5 +91,5 @@
 		<a class="rsImg bugaga" data-rsw="509" data-rsh="387" data-rsbigimg="images/projects/scotts/11.jpg" href="images/projects/scotts/11.jpg"><img width="96" height="72" class="rsTmb" src="images/projects/scotts/11.jpg"></a>
 		<a class="rsImg bugaga" data-rsw="509" data-rsh="387" data-rsbigimg="images/projects/scotts/12.jpg" href="images/projects/scotts/12.jpg"><img width="96" height="72" class="rsTmb" src="images/projects/scotts/12.jpg"></a>
 		<a class="rsImg bugaga" data-rsw="509" data-rsh="387" data-rsbigimg="images/projects/scotts/13.jpg" href="images/projects/scotts/13.jpg"><img width="96" height="72" class="rsTmb" src="images/projects/scotts/13.jpg"></a>
-	</div>
+	</div> -->
 </div>

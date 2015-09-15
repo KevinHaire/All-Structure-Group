@@ -9,7 +9,7 @@
 	</ul>
 	<p>Field Staff:</p>
 	<ul>
-		<li>Having over 10 years of combined direct experience in commercial and industrial buildings, our Site Manager’s and General Foreman know All Structure Group LTD and the companies vision, just as clear as the General Manager, and communicate this in all that they do</li>
+		<li>With extensive experience in commercial and industrial buildings, our Site Manager’s and General Foreman know All Structure Group LTD and the companies vision, just as clear as the General Manager, and communicate this in all that they do</li>
 	</ul>
 	<p>We treat all of our employee’s at All Structure Group LTD with the respect they deserve. We have succeeded in creating a family orientated atmosphere, that most companies in this industry strive for. We believe in continuing education, promotion from within and are an equal opportunity employer!</li>
 
