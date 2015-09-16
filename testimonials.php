@@ -1,7 +1,8 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<?php include 'views/_common/_head.php'; ?>
+	<?php include 'views/_common/_head.php'; ?>
+	<meta name="description" content="Have a look at what some of our satisfied customers have to say.">
 </head>
 
 <body>

@@ -1,7 +1,8 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<?php include 'views/_common/_head.php'; ?>
+	<?php include 'views/_common/_head.php'; ?>
+	<meta name="description" content="All Structure Group LTD. staff is available any time to answer questions or quote a job.">
 </head>
 
 <body>

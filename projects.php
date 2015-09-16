@@ -1,7 +1,8 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<?php include 'views/_common/_head.php'; ?>
+	<?php include 'views/_common/_head.php'; ?>
+	<meta name="description" content="A glimpse at some of the projects we have completed.">
 </head>
 
 <body>
