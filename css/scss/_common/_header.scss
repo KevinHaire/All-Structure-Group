@@ -23,8 +23,6 @@
     max-width:35%;
   }
   @include breakpoint(mamaBear) {
-    width:20%;
-    float:left;
     img {
       max-width:100%;
     }
@@ -40,9 +38,8 @@
   @include breakpoint(mamaBear) {
     position:static;
     transform:translateY(0);
-    padding:3em 0 0 1.5em;
-    width:80%;
-    float:left;
+    padding:1em 0 0 1.5em;
+    text-align:center;
   }
 	ul {
 		li {

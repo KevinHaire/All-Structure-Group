@@ -501,10 +501,6 @@ img {
   max-width: 35%;
 }
 @media (min-width: 1025px) {
-  .mainLogo {
-    width: 20%;
-    float: left;
-  }
   .mainLogo img {
     max-width: 100%;
   }
@@ -524,9 +520,8 @@ img {
     position: static;
     -webkit-transform: translateY(0);
     transform: translateY(0);
-    padding: 3em 0 0 1.5em;
-    width: 80%;
-    float: left;
+    padding: 1em 0 0 1.5em;
+    text-align: center;
   }
 }
 .mainNav ul li {
