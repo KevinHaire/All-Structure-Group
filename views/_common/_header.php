@@ -3,7 +3,7 @@
 		<div class="burgWrapper"><div class="burg"></div></div>
 		<div class="mainLogo">
 			<a href="/">
-				<img src="images/logo2.png" alt="All Structure">
+				<img style="max-width:220px;" src="images/logo3.png" alt="All Structure">
 			</a>
 		</div>
 		<nav class="mainNav">
