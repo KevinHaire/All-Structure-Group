@@ -201,8 +201,9 @@ a._i7:a.slider}),a.ev.on("rsAfterSizePropSet",function(){var b,c=a.st.visibleNea
 
   $('.burgWrapper').unbind();
   $('.burgWrapper').click(function() {
-    console.log('kevin');
+    $('.overlay').toggleClass('notVisible');
     $('.burg').toggleClass('activeBurg');
+    $('.burg').toggleClass('white');
     $('.mainNav').toggleClass('activeNav');
   })
 

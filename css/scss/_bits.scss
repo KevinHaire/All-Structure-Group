@@ -103,10 +103,14 @@ img {
 }
 
 .on {
-	color:$mainBlue !important;
+	color:#ffffff !important;
 	font-weight:bold;
 }
 
 .galleryHeader {
 	text-align:center;
+}
+
+.notVisible {
+	display:none;
 }
