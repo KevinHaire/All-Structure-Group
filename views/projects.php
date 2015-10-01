@@ -6,15 +6,16 @@
 	</div>
 	<h2 class="galleryHeader">GCS Energy</h2>
 	<div id="gallery-2" class="royalSlider rsDefault royalSliderGallery">
+		<a class="rsImg bugaga" data-rsw="509" data-rsh="387" data-rsbigimg="images/projects/gcs/4.jpg" href="images/projects/gcs/4.jpg"><img width="96" height="72" class="rsTmb" src="images/projects/gcs/4.jpg"></a>
 		<a class="rsImg bugaga" data-rsw="509" data-rsh="387" data-rsbigimg="images/projects/gcs/1.jpg" href="images/projects/gcs/1.jpg"><img width="96" height="72" class="rsTmb" src="images/projects/gcs/1.jpg"></a>
 		<a class="rsImg bugaga" data-rsw="509" data-rsh="387" data-rsbigimg="images/projects/gcs/2.jpg" href="images/projects/gcs/2.jpg"><img width="96" height="72" class="rsTmb" src="images/projects/gcs/2.jpg"></a>
 		<a class="rsImg bugaga" data-rsw="509" data-rsh="387" data-rsbigimg="images/projects/gcs/3.jpg" href="images/projects/gcs/3.jpg"><img width="96" height="72" class="rsTmb" src="images/projects/gcs/3.jpg"></a>
-		<a class="rsImg bugaga" data-rsw="509" data-rsh="387" data-rsbigimg="images/projects/gcs/4.jpg" href="images/projects/gcs/4.jpg"><img width="96" height="72" class="rsTmb" src="images/projects/gcs/4.jpg"></a>
 		<a class="rsImg bugaga" data-rsw="509" data-rsh="387" data-rsbigimg="images/projects/gcs/5.jpg" href="images/projects/gcs/5.jpg"><img width="96" height="72" class="rsTmb" src="images/projects/gcs/5.jpg"></a>
 		<a class="rsImg bugaga" data-rsw="509" data-rsh="387" data-rsbigimg="images/projects/gcs/6.jpg" href="images/projects/gcs/6.jpg"><img width="96" height="72" class="rsTmb" src="images/projects/gcs/6.jpg"></a>
 	</div>
 	<h2 class="galleryHeader">Inter Pipeline</h2>
 	<div id="gallery-3" class="royalSlider rsDefault royalSliderGallery">
+		<a class="rsImg bugaga" data-rsw="509" data-rsh="387" data-rsbigimg="images/projects/ipl/14.jpg" href="images/projects/ipl/14.jpg"><img width="96" height="72" class="rsTmb" src="images/projects/ipl/14.jpg"></a>
 		<a class="rsImg bugaga" data-rsw="509" data-rsh="387" data-rsbigimg="images/projects/ipl/1.jpg" href="images/projects/ipl/1.jpg"><img width="96" height="72" class="rsTmb" src="images/projects/ipl/1.jpg"></a>
 		<a class="rsImg bugaga" data-rsw="509" data-rsh="387" data-rsbigimg="images/projects/ipl/2.jpg" href="images/projects/ipl/2.jpg"><img width="96" height="72" class="rsTmb" src="images/projects/ipl/2.jpg"></a>
 		<a class="rsImg bugaga" data-rsw="509" data-rsh="387" data-rsbigimg="images/projects/ipl/3.jpg" href="images/projects/ipl/3.jpg"><img width="96" height="72" class="rsTmb" src="images/projects/ipl/3.jpg"></a>
@@ -28,7 +29,6 @@
 		<a class="rsImg bugaga" data-rsw="509" data-rsh="387" data-rsbigimg="images/projects/ipl/11.jpg" href="images/projects/ipl/11.jpg"><img width="96" height="72" class="rsTmb" src="images/projects/ipl/11.jpg"></a>
 		<a class="rsImg bugaga" data-rsw="509" data-rsh="387" data-rsbigimg="images/projects/ipl/12.jpg" href="images/projects/ipl/12.jpg"><img width="96" height="72" class="rsTmb" src="images/projects/ipl/12.jpg"></a>
 		<a class="rsImg bugaga" data-rsw="509" data-rsh="387" data-rsbigimg="images/projects/ipl/13.jpg" href="images/projects/ipl/13.jpg"><img width="96" height="72" class="rsTmb" src="images/projects/ipl/13.jpg"></a>
-		<a class="rsImg bugaga" data-rsw="509" data-rsh="387" data-rsbigimg="images/projects/ipl/14.jpg" href="images/projects/ipl/14.jpg"><img width="96" height="72" class="rsTmb" src="images/projects/ipl/14.jpg"></a>
 		<a class="rsImg bugaga" data-rsw="509" data-rsh="387" data-rsbigimg="images/projects/ipl/15.jpg" href="images/projects/ipl/15.jpg"><img width="96" height="72" class="rsTmb" src="images/projects/ipl/15.jpg"></a>
 		<a class="rsImg bugaga" data-rsw="509" data-rsh="387" data-rsbigimg="images/projects/ipl/16.jpg" href="images/projects/ipl/16.jpg"><img width="96" height="72" class="rsTmb" src="images/projects/ipl/16.jpg"></a>
 		<a class="rsImg bugaga" data-rsw="509" data-rsh="387" data-rsbigimg="images/projects/ipl/17.jpg" href="images/projects/ipl/17.jpg"><img width="96" height="72" class="rsTmb" src="images/projects/ipl/17.jpg"></a>
