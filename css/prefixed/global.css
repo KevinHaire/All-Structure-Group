@@ -1682,5 +1682,30 @@ img.rsImg {
 .footerPod {
   text-align: center;
 }
+@media (min-width: 1025px) {
+  .footerPod {
+    width: 50%;
+    float: left;
+  }
+}
+.footerPod ul li {
+  line-height: 1;
+  padding: .2em 0;
+}
+.footerPod ul li:first-of-type {
+  margin-top: 1em;
+}
+.footerPod ul li a {
+  text-decoration: none;
+}
+
+.footerNav {
+  display: none;
+}
+@media (min-width: 1025px) {
+  .footerNav {
+    display: block;
+  }
+}
 
 /*# sourceMappingURL=global.css.map */

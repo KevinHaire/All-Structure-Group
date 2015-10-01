@@ -8,4 +8,28 @@
 
 .footerPod {
 	text-align:center;
+	@include breakpoint(mamaBear) {
+		width:50%;
+		float:left;
+	}
+	ul {
+		li {
+			line-height:1;
+			padding:.2em 0;
+			&:first-of-type {
+				margin-top:1em;	
+			}
+			a {
+				text-decoration:none;
+				// font-size:.8em;
+			}
+		}
+	}
+}
+
+.footerNav {
+	display:none;
+	@include breakpoint(mamaBear) {
+		display:block;
+	}
 }

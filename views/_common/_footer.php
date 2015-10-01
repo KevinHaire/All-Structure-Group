@@ -3,13 +3,16 @@
 	<div class="contain">
 		<div class="footerPod">
 			<h2>Contact Us</h2>
-			<hr>
+			<!-- <hr> -->
 			<p>
 				3428-99 St. NW Suite # 216<br>
 				Edmonton, AB, T6G 5X5 <br>
 				Phone: 780-888-5518<br>
 				<a href="info@allstructure.ca">info@allstructure.ca</a>
 			</p>
+		</div>
+		<div class="footerPod footerNav">
+			<?php include '_navList.php'; ?>
 		</div>
 	</div>
 </footer>
