@@ -5,7 +5,7 @@
 			<h2>Contact Us</h2>
 			<!-- <hr> -->
 			<p>
-				3428-99 St. NW Suite # 216<br>
+				3428 99th St. NW Suite # 216<br>
 				Edmonton, AB, T6E 5X5 <br>
 				Phone: 780-888-5518<br>
 				<a href="info@allstructure.ca">info@allstructure.ca</a>
