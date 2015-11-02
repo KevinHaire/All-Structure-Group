@@ -1696,7 +1696,7 @@ img.rsImg {
 }
 @media (min-width: 1025px) {
   .footerPod {
-    width: 50%;
+    width: 33.333333%;
     float: left;
   }
 }
@@ -1718,6 +1718,10 @@ img.rsImg {
   .footerNav {
     display: block;
   }
+}
+
+.footerLogoPod img {
+  max-width: 250px;
 }
 
 .quoteFormContainer {

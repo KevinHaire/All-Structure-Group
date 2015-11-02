@@ -9,7 +9,7 @@
 .footerPod {
 	text-align:center;
 	@include breakpoint(mamaBear) {
-		width:50%;
+		width:33.333333%;
 		float:left;
 	}
 	ul {
@@ -31,5 +31,11 @@
 	display:none;
 	@include breakpoint(mamaBear) {
 		display:block;
+	}
+}
+
+.footerLogoPod {
+	img {
+		max-width:250px;
 	}
 }

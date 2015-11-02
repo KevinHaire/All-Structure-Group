@@ -11,6 +11,12 @@
 				<a href="info@allstructure.ca">info@allstructure.ca</a>
 			</p>
 		</div>
+		<div class="footerPod footerLogoPod">
+			<h2>ASG Sales</h2>
+			<a href="http://www.asgsales.ca" target="_blank">
+				<img src="images/asgSales.png" alt="">
+			</a>
+		</div>
 		<div class="footerPod footerNav">
 			<?php include '_navList.php'; ?>
 		</div>
