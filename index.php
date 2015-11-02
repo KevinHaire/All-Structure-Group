@@ -6,6 +6,7 @@
 </head>
 
 <body>
+<?php include_once("views/_common/analyticstracking.php") ?>
 <?php include 'views/_common/_header.php' ?>
 
 <?php include 'views/home.php' ?>

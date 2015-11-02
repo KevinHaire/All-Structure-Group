@@ -1,5 +1,20 @@
 $(document).ready(function() {
 
+  $('.haveBuilding input').click(function() {
+    console.log('clicked');
+    if($('#haveBuildingNo').is(':checked')) {
+      $('.supplyBuilding').addClass('displayBlock');
+      $('#supplyBuildingYes').prop('checked', true);
+    } else {
+      $('.supplyBuilding').removeClass('displayBlock');
+      $('#supplyBuildingYes').prop('checked', false);
+    }
+  })
+
+  $('.button').click(function() {
+    $('.quoteFormContainer').slideToggle();
+  })
+
   $('.burgWrapper').unbind();
   $('.burgWrapper').click(function() {
     console.log('kevin');
