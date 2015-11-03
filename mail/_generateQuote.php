@@ -77,14 +77,14 @@ EOD;
 		$mail->SMTPSecure = 'tls';                            // Enable encryption, 'ssl' also accepted
 		$mail->From = 'allstructureweb@gmail.com';
 		$mail->FromName = 'AllStructureGroup.ca';
-		// $mail->addAddress('info@allstructuregroup.ca');    // Name is optional
-		$mail->addAddress('kevin@allstructuregroup.ca');    // Name is optional
+		$mail->addAddress('info@allstructuregroup.ca');    // Name is optional
+		// $mail->addAddress('kevin@allstructuregroup.ca');    // Name is optional
 		$mail->addReplyTo('info@allstructuregroup.ca', 'Information');
 
 		$mail->WordWrap = 50;                                 // Set word wrap to 50 characters
 		$mail->isHTML(true);                                  // Set email format to HTML
 
-		$mail->Subject = 'Quote requested from asgsales.ca';
+		$mail->Subject = 'Quote requested from allstructuregroup.ca';
 		$mail->Body    = $text;
 										  
 
@@ -154,7 +154,7 @@ EOD;
 		$mail->WordWrap = 50;                                 // Set word wrap to 50 characters
 		$mail->isHTML(true);                                  // Set email format to HTML
 
-		$mail->Subject = 'Quote requested from asgsales.ca';
+		$mail->Subject = 'Quote requested from allstructuregroup.ca';
 		$mail->Body    = $customerEmail;
 										  
 		if(!$mail->send()) {
