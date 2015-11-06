@@ -97,7 +97,7 @@ EOD;
 			
 			<h1>Thank You!</h1>
 			<p>Please view the details of your quote below. Should you have any further questions or would like to set up a site visit we are available anytime via <a href="mailto:info@allstructuregroup.ca">email</a> or phone: 780-888-5518</p>
-			<h3>Building Specs:</h3>
+			<h3 style="color:#ffffff">Building Specs:</h3>
 			<p>Style: $style</p>
 			<p>Insulation: $insulation</p>
 			<p>$width feet wide</p>
@@ -105,7 +105,7 @@ EOD;
 			<p>Square Footage: $squareFootage</p>
 			<p>Already have building: $haveBuilding</p>
 			$supplyBuildingText
-			<h2>Cost: $cost</h2>
+			<h2 style="color:#ffffff">Cost: $cost</h2>
 			<br>
 			<p style="font-size:.8em">Prices provided do not include price of building if that option is selected and is subject to change at the
 			 discretion of All Structure Group LTD.</p>

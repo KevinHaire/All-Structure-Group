@@ -1739,6 +1739,9 @@ img.rsImg {
   color: #ffffff;
   font-weight: bold;
 }
+.quoteFormContainer div h2 {
+  color: #ffffff !important;
+}
 
 .haveBuilding, .supplyBuilding {
   color: #ffffff;
